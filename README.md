@@ -1,0 +1,1 @@
+# Hashin_damage_ABAQUS
